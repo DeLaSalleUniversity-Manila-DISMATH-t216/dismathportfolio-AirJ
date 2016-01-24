@@ -39,3 +39,4 @@ dismathportfolio-AirJ created by Classroom for GitHub
 
 # Week 3
 - I'm about to watch the tutorial videos. 
+- Done watching the recommended tutorial videos, it helped me to understand our topics easily.
