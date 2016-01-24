@@ -38,4 +38,4 @@ dismathportfolio-AirJ created by Classroom for GitHub
   * Resolution
 
 # Week 3
-To be continued....
+- I'm about to watch the tutorial videos. 
