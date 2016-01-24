@@ -8,8 +8,7 @@ dismathportfolio-AirJ created by Classroom for GitHub
 - I learned how to understand the Truth table of different Logical Connectives.
 - I learned new symbols like ∧ for conjunction, ∨ for disjunction, ⊕ for  exclusive or,  → for conditional and ↔ for biconditional.
 
-
-# Week 2
+ #Week 2
 - I was very excited to know more about this course.
 - We were introduced to a new topic which were Proof by logical equivalences, Predicate/Quantification logic and Rules of Inference.
 - Logical Equivalences have 10 laws which are:
@@ -37,5 +36,6 @@ dismathportfolio-AirJ created by Classroom for GitHub
   * Simplification
   * Conjuction
   * Resolution
-#Week 3
+
+# Week 3
 To be continued....
