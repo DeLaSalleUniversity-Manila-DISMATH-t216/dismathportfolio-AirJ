@@ -40,3 +40,14 @@ dismathportfolio-AirJ created by Classroom for GitHub
 # Week 3
 - I'm about to watch the tutorial videos. 
 - Done watching the recommended tutorial videos, it helped me to understand our topics easily.
+- We discussed the different methods of proof which are:
+  * Direct Proof
+  * Proof by Contraposition (Indirect)
+  * Vacuous Proof
+  * Trivial Proof
+  * Proof by Contradiction (Indirect)
+  * Proof by Equivalence
+- In Direct Proof, we assume p to be true and we should show that q is also true.
+- In Proof by Contraposition, we assume not q is true and show that not p is true.
+- In Vacuous Proof, we show that p is false, because p->q must be true when p is false.
+- In Trivial Proof, we show that q is true, it follows that p->q must also be true.
