@@ -62,5 +62,5 @@ dismathportfolio-AirJ created by Classroom for GitHub
 - To prove this, we must show that p->q and q->p are true.
 - Mathematical Induction was reinforced.
 - In performing this method, we must follow the two steps: 
-1. Basic Step
-2. Inductive Step
+- 1. Basic Step
+- 2. Inductive Step
