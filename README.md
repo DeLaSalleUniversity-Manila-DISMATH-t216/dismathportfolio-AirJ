@@ -51,3 +51,16 @@ dismathportfolio-AirJ created by Classroom for GitHub
 - In Proof by Contraposition, we assume not q is true and show that not p is true.
 - In Vacuous Proof, we show that p is false, because p->q must be true when p is false.
 - In Trivial Proof, we show that q is true, it follows that p->q must also be true.
+
+# Week 4
+- We were introduced in another proof which is Proof by Contradiction.
+- To prove a statement using this kind of proof, we must:
+ * Assume that P is true and that Q is false.
+ * Derive a Contradiction
+ * Conclude that if P is true, Q must be true.
+- Another proof was introduced and it was Proof by Equivalence.
+- To prove this, we must show that p->q and q->p are true.
+- Mathematical Induction was reinforced.
+- In performing this method, we must follow the two steps: 
+  1. Basic Step
+  2. Inductive Step
