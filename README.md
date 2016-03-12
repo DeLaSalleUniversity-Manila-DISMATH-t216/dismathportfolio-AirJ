@@ -85,8 +85,8 @@ dismathportfolio-AirJ created by Classroom for GitHub
 - I learned about the difference of range and codomain.
 - Different types of functions:
  * One-To-One Function 
- * Onto Function< 
- * bijection
+ * Onto Function 
+ * Bijection
 
 # Week 7
 - Algorithms were our new topic.
