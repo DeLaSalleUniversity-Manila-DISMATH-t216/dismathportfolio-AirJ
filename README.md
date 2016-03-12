@@ -62,5 +62,42 @@ dismathportfolio-AirJ created by Classroom for GitHub
 - To prove this, we must show that p->q and q->p are true.
 - Mathematical Induction was reinforced.
 - In performing this method, we must follow the two steps: 
-- 1. Basic Step
-- 2. Inductive Step
+ * 1. Basic Step
+ * 2. Inductive Step
+- Recursive Statements are introduced.
+
+# Week 5
+- Recursive Algorithm was discussed.
+- Programs of factorial and of power rule were part of recursive algorithm.
+- Program Verification was introduced and it helps us know how to present proof of correctness of programs.
+- Zeno's Paradox and Power Series were introduced.
+- Partial Correctness
+ * HOARE TRIPLE p{S}q
+- Set is an unordered collection of distinct objects. It has different relationships:
+ * Union
+ * Intersection
+ * Difference
+ * Symmetric Difference
+
+# Week 6
+- We discussed functions.
+- It is the relationship between inputs and outputs.
+- I learned about the difference of range and codomain.
+- Different types of functions:
+ * One-To-One Function 
+ * Onto Function< 
+ * bijection
+
+# Week 7
+- Algorithms were our new topic.
+- It must have a precondition and a postcondition.
+- Linear Search-one by one search
+- Binary Search-finds the position of a target value within a sorted array.
+
+# Week 8
+- I learned about new Algorithms.
+- Bubble sort, insertion and greedy algorithms were introduced.
+- Bubble sort - smaller elements "bubble" to the top as they are interchanged with larger elements. The larger elements "sink" to the bottom.
+- Insertion sort - a simple sorting algorithm that begins with the second element.
+- Greedy Algorithm selects the best choice at each step.
+
