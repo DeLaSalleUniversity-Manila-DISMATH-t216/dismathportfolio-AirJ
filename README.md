@@ -1,5 +1,7 @@
 # dismathportfolio-AirJ
 dismathportfolio-AirJ created by Classroom for GitHub
+- Jerome Moises L. Andres
+- DISMATH EL
 
 # Week 1
 - I have encountered a new but weird course which is Discrete Mathematics.
@@ -100,4 +102,53 @@ dismathportfolio-AirJ created by Classroom for GitHub
 - Bubble sort - smaller elements "bubble" to the top as they are interchanged with larger elements. The larger elements "sink" to the bottom.
 - Insertion sort - a simple sorting algorithm that begins with the second element.
 - Greedy Algorithm selects the best choice at each step.
+
+# Week 9
+- Our prof introduced sorting algorithm.
+- There are two types of sorting
+ * Bubble Sort
+ * Insertion Sort
+- We were also introduced in greedy algorithm.
+- It works by providing a set of denomination arranged in increasing order. 
+
+# Week 10
+- We were introduced to growth function.
+- Growth functions can be approximated using Big-O, Big-Omega, and Big-Theta notation.
+- Big-O - used for upper bound.
+- Big-Omega - used for lower bound.
+- Big-Theta - used for upper and lower bound.
+- Complexity of Algorithms (from lowest to highest)
+ * Constant Complexity
+ * Logarithm Complexity
+ * Linear Complexity
+ * n log n Complexity
+ * Polynomial Complexity
+ * Exponential Complexity
+ * Factorial Complexity
+
+# Week 11
+- No classes
+
+# Week 12
+- Graph Theory - a structure that consists of vertices and edges.
+- Edges - connects the vertices.
+- Degree - the number of edges incident with a node.
+- Handshaking Theorem: 2e = Sum[deg(v)]
+- Euler path - a (open) walk where all edges are covered once
+- Euler circuit - a circuit containing every edge of a graph
+- Eulers formula: regions = edges - vertices + 2
+- Hamilton path - an open walk where all nodes are covered.
+- Hamilton circuit - passes to through every vertex exactly once and returns to the vertex where it started.
+- Pendant is a one degree node
+- Kuratowski's Theorem - a graph is nonplanar if and only if it contains a subgraph homeophobic to K3,3 and K5.
+
+# Week 13
+- Graph Coloring - assigning a color to a node or vertex so that there will be no adjacent nodes will have the same color.
+- Four Color Theorem - the chromatic number of a planar graph is no greater than four.
+- Cycle with odd number of vertices - chromatic 3
+- Cycle with even number of vertices - chromatic 2
+- Trees - is a connected undirected graph with no simple circuits
+- Rooted tree- a tree in which a special node is singled out
+- Ordered Tree -  a rooted tree which are arranged in increasing order
+- 
 
