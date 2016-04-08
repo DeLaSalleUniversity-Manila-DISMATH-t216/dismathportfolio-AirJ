@@ -150,5 +150,4 @@ dismathportfolio-AirJ created by Classroom for GitHub
 - Trees - is a connected undirected graph with no simple circuits
 - Rooted tree- a tree in which a special node is singled out
 - Ordered Tree -  a rooted tree which are arranged in increasing order
-- 
 
